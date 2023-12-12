@@ -1,4 +1,4 @@
-# Fitting Poisson  distribution
+![image](https://github.com/SJananisenthilkumar/Poisson_distribution/assets/144871139/aa3f7a59-9ed0-453e-ae94-5d9490f726d1)# Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
